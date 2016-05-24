@@ -1,0 +1,6 @@
+; $Id$
+name = JostPay - Drupal Plugin
+description = eCommerce - JostPay - Drupal Plugin
+
+core = 6.x
+version = "6.x"
